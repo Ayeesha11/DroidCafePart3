@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\BLDE\\Desktop\\Ayeesha\\android-fundamentals-master\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\BLDE\\.android\\build-cache\\fd7e30fa63b6978face298e2e1504675211b4d5e\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

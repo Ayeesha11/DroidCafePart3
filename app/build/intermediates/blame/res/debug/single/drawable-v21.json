@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\BLDE\\Desktop\\Ayeesha\\android-fundamentals-master\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\BLDE\\.android\\build-cache\\b38794f84d31655e11ff8672785157a6c124d2d0\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BLDE\\Desktop\\Ayeesha\\android-fundamentals-master\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\BLDE\\.android\\build-cache\\01c2ae3db19afdea9fd60032e7b8c9140c5f9b6e\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BLDE\\Desktop\\Ayeesha\\android-fundamentals-master\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\BLDE\\.android\\build-cache\\01c2ae3db19afdea9fd60032e7b8c9140c5f9b6e\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BLDE\\Desktop\\Ayeesha\\android-fundamentals-master\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\BLDE\\.android\\build-cache\\01c2ae3db19afdea9fd60032e7b8c9140c5f9b6e\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BLDE\\Desktop\\Ayeesha\\android-fundamentals-master\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\BLDE\\.android\\build-cache\\01c2ae3db19afdea9fd60032e7b8c9140c5f9b6e\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]
